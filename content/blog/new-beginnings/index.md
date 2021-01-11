@@ -46,24 +46,3 @@ Right? Well, anyone will wonder the same. But the catch here is that the learnin
 
 My plan for the next 4 months is to put in the hard work and learn how to develop bigger things on web and get a job as a junior developer. After that I aspire to become a ninja by learning design, product development, maybe a little bit of AI and machine learning in my free time  and continue web development.
 
-**Some of my work till now: **
-
- [(A recommendation app using React)](https://o5lv9.csb.app) 
-![Screenshot 2021-01-07 at 7.32.48 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1610033987801/SQS8ukbd4.png)
-
- [(Translation app using Vanilla JavaScript)
-](https://dothrakisachin.netlify.app) ![Screenshot 2021-01-07 at 7.32.59 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1610034012548/W9iJoresM.png)
-
-
- [(Translation app using Vanilla Javascript made during class)](https://sachinbananspeak.netlify.app) 
-![Screenshot 2021-01-07 at 7.33.08 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1610034165519/2nM8b1BSF.png)
-
- [ (Profit or Loss calculator App using Vanilla JavaScript)](https://stockcal.netlify.app)
-![Screenshot 2021-01-06 at 1.28.34 AM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1610034192882/bkz-ihl2q.png)
-
- [(CLI Quiz App made on Repl.it)](https://repl.it/@sachinpant/Indian-Premiere-League?embed=1&output=1#index.js) 
-![Screenshot 2021-01-07 at 7.33.55 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1610034054697/HdMu-Jdb8.png)
-
- [(My Portfolio) ](https://sachinpant.netlify.app/projects.html) 
-![Screenshot 2021-01-07 at 9.11.02 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1610034126052/7I7k7V1Zi.png)
-
