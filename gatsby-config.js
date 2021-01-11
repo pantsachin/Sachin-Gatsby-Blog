@@ -3,7 +3,7 @@ module.exports = {
     title: `Sachin Pant writes...`,
     author: {
       name: `Sachin Pant`,
-      summary: `who lives and works in Delhi building useful things.`,
+      summary: `who lives and works in Delhi, India building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://sachinpantwrites.netlify.app/`,
